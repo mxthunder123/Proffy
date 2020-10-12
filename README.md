@@ -12,4 +12,5 @@
 
  ## Technologies
  * ReactJS-Front-End
-   * React
+   * React Router Dom
+   * Axios
