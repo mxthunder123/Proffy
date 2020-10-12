@@ -1,2 +1,2 @@
  # Proffy
-📜 ## _About the project_
+📜 ## *About the project*
