@@ -4,5 +4,8 @@
  
  ## ⚙️ Requirements
  *[Node.js](https://nodejs.org/en/)
+ 
  *[Expo](https://expo.io/)
+ 
  *[GIT](https://git-scm.com/downloads)
+ 
