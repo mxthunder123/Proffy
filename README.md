@@ -12,5 +12,4 @@
 
  ## Technologies
  * ReactJS-Front-End
- 
- ** React
+   * React
