@@ -9,3 +9,7 @@
  
  * [GIT](https://git-scm.com/downloads)
  
+
+ ## Technologies
+ * ReactJS-Front-End
+ ** React
