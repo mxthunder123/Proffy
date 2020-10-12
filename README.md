@@ -1,3 +1,8 @@
  # Proffy
 ## 📜 About the project
- O Proffy é uma plataforma de cadastro de alunos e professores para estudos online criada durante o Next Level Week #2. O NLW é um evento disponibilizado pela rocketseat.
+ Proffy is a platform for registering students and teachers for online studies created during Next Level Week # 2. NLW is an event provided by rocketseat.
+ 
+ ## ⚙️ Requirements
+ *[Node.js](https://nodejs.org/en/)
+ *[Expo](https://expo.io/)
+ *[GIT](https://git-scm.com/downloads)
