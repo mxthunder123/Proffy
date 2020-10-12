@@ -10,7 +10,7 @@
  * [GIT](https://git-scm.com/downloads)
  
 
- ## Technologies
+ ## 🖥️ Technologies
  * ReactJS-Front-End
    * React Router Dom
    * Axios
@@ -19,7 +19,7 @@
    * Knex
    * Sqlite3
    
- ## 🖥️ Operation
+ ## 🕹️ Operation
  
   ### Front-End-Web
   
